@@ -1,3 +1,24 @@
+Metadata-Version: 2.1
+Name: twint
+Version: 2.1.21
+Summary: An advanced Twitter scraping & OSINT tool.
+Home-page: https://github.com/twintproject/twint
+Author: Cody Zacharias
+Author-email: codyzacharias@pm.me
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
 20220207.0
 
 # About this fork
@@ -270,3 +291,5 @@ Notes:
 ## Contact
 
 If you have any question, want to join in discussions, or need extra help, you are welcome to join our Twint focused channel at [OSINT team](https://osint.team)
+
+
