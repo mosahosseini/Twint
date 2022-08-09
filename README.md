@@ -2,9 +2,7 @@
 
 # About this fork
 
-[This repository](https://github.com/minamotorin/twint) is the fork of [https://github.com/twintproject/twint](https://github.com/twintproject/twint) and for myself.
-
-Modified by [minamotorin](https://github.com/minamotorin).
+[This repository](https://github.com/mosahosseini/Twint) is the fork of [minamotorin](https://github.com/minamotorin/twint). 
 
 ## Updates from twintproject/twint
 
