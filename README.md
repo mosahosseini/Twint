@@ -2,27 +2,7 @@
 
 # About this fork
 
-[This repository](https://github.com/mosahosseini/Twint) is the fork of [minamotorin](https://github.com/minamotorin/twint). 
-
-## Updates from twintproject/twint
-
-### twint.token.RefreshTokenException: Could not find the Guest token in HTML
-
-This problem doesn't happen recently.
-
-#### Related
-
-- [twintproject/twint#1320](https://github.com/twintproject/twint/issues/1320)
-- [twintproject/twint#1322](https://github.com/twintproject/twint/pull/1322)
-- [twintproject/twint#1328](https://github.com/twintproject/twint/pull/1328)
-- [twintproject/twint#1061](https://github.com/twintproject/twint/issues/1061)
-- [twintproject/twint#1114](https://github.com/twintproject/twint/issues/1114)
-
-### json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-The fix is **not complete**.
-`twint.run.Profile` will work but `twint.run.db` will not.
-This means [`test.py`](./test.py) causes an error.
+[This repository](https://github.com/mosahosseini/Twint) is a clone of  minamotorins repository [https://github.com/minamotorin/twint](https://github.com/minamotorin/twint) i just changed url.py in line 70 with a solution that i found in stackoveerflow. 
 
 I think this is because the fields of the result table are not exactly the same as the traditional ones.
 
