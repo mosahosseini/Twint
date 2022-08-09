@@ -2,7 +2,7 @@
 
 # About this fork
 
-[This repository](https://github.com/mosahosseini/Twint) is a clone of  minamotorins repository [https://github.com/minamotorin/twint](https://github.com/minamotorin/twint) i just changed url.py in line 70 with a solution that i found in stackoveerflow. 
+[This repository](https://github.com/mosahosseini/Twint) is a clone of  minamotorins repository [https://github.com/minamotorin/twint](https://github.com/minamotorin/twint) i just changed url.py in line 70 with a solution that i found in stackoverflow.
 
 I think this is because the fields of the result table are not exactly the same as the traditional ones.
 
