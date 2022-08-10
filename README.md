@@ -2,7 +2,9 @@
 
 # About this Repository
 
-[This repository](https://github.com/mosahosseini/Twint) is a clone of  minamotorins repository [https://github.com/minamotorin/twint](https://github.com/minamotorin/twint) i just changed url.py in line 70 with a solution that i found in stackoverflow.
+[This repository](https://github.com/mosahosseini/Twint) is a clone of  minamotorins repository [https://github.com/minamotorin/twint](https://github.com/minamotorin/twint) i just changed url.py in line 70 with a solution that i found in stackoverflow. All credit goes to minamotorin.
+
+I also added scrape.py which tests different functions in twint. 
 
 #### Related 
 
